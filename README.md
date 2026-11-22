@@ -2,6 +2,10 @@
 
 A lightweight, self-contained retro pixel platformer inspired by Super Mario Bros. Built entirely with vanilla HTML5, Canvas, and Web Audio API—zero external dependencies, zero build steps.
 
+<p align="center">
+  <img src="preview.gif" alt="Super Mario Gameplay Preview" width="512">
+</p>
+
 ## Features
 
 - **Procedural 8-bit Pixel Art**: Handcrafted NES-style sprites for Mario (idle, running animations, jump), Goombas, animated `?` blocks, brick blocks, pipes, and flagpole.
